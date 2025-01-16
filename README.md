@@ -13,12 +13,12 @@ A Python-based voice assistant ("Jarvis") that listens for voice commands, respo
 - 🔄 **Continuous Listening** – Always ready until the command **"exit"** is given.
 
 ---
-
+<img width="335" alt="image" src="https://github.com/user-attachments/assets/88b3a669-7106-4963-aa45-1752d0df17f5" />
 ## 📦 Installation
 
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/voice-ai-assistant.git
+git clone https://github.com/RDXRUD/Pi_LLM.git
 cd voice-ai-assistant
-<img width="335" alt="image" src="https://github.com/user-attachments/assets/88b3a669-7106-4963-aa45-1752d0df17f5" />
+
