@@ -21,6 +21,12 @@ A Python-based offline voice assistant ("Jarvis") designed to run on **Raspberry
 
 ---
 
+## 🎥 Demo
+
+[📽 Watch the Demo](https://drive.google.com/file/d/1HTuD-mMfu5RZNxEY2cqGjGHoQN8_k8db/view?usp=drive_link)
+
+---
+
 ## 📦 Installation
 
 ### 1. **Clone the Repository**
